@@ -1,4 +1,4 @@
-package tasks.three;
+package lesson1.tasks.three;
 
 public class Color {
  /** todo  4. Создайте метод printColor() в теле которого задайте int переменную value и инициализируйте ее любым значением.

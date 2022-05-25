@@ -1,4 +1,4 @@
-package tasks.two;
+package lesson1.tasks.two;
 
 public class Check {
 

@@ -1,4 +1,4 @@
-package tasks.one;
+package lesson1.tasks.one;
 
 import lombok.Data;
 

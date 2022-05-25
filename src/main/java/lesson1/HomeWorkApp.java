@@ -1,8 +1,10 @@
-import tasks.fore.Compare;
-import tasks.one.Fruit;
-import tasks.one.PrintsImpl;
-import tasks.three.Color;
-import tasks.two.Check;
+package lesson1;
+
+import lesson1.tasks.fore.Compare;
+import lesson1.tasks.one.Fruit;
+import lesson1.tasks.one.PrintsImpl;
+import lesson1.tasks.three.Color;
+import lesson1.tasks.two.Check;
 
 public class HomeWorkApp {
 

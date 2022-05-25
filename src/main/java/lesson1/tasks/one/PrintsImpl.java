@@ -1,6 +1,4 @@
-package tasks.one;
-
-import tasks.one.Fruit;
+package lesson1.tasks.one;
 
 public class PrintsImpl {
     public PrintsImpl() {

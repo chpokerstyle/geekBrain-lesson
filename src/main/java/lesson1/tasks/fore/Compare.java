@@ -1,4 +1,4 @@
-package tasks.fore;
+package lesson1.tasks.fore;
 
 public class Compare {
     /**
